@@ -1,5 +1,5 @@
 mysql:
-  user: zhanghengwei_new
+  user: zhanghengwei
 
 person:
-  name: zhw_new
+  name: zhw
